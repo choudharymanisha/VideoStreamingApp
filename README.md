@@ -27,8 +27,6 @@
 ---
 ## Screenshots
 
-### This is the main landing page:
-# Landing page
-
-![main page](https://github.com/user-attachments/assets/![Screenshot 2024-12-05 164556](https://github.com/user-attachments/assets/81426ffc-d9cd-4e4b-bd0f-62902f07c48e)
+![Main Page](https://![Screenshot 2024-12-05 164556](https://github.com/user-attachments/assets/148d5196-9fce-416d-881d-2365d6b0b478)
 )
+
