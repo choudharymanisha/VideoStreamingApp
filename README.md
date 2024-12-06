@@ -29,5 +29,8 @@
 ### This is the home page of our video streaming website
 (![Screenshot 2024-12-05 164556](https://github.com/user-attachments/assets/148d5196-9fce-416d-881d-2365d6b0b478)
 )
+## For streaming and uploading the video you have to write the video description as well as video and than click on upload
+![Screenshot 2024-12-05 165112](https://github.com/user-attachments/assets/1f573c83-3541-49f7-a190-3b7c96350b00)
+
 
 
