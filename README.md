@@ -27,6 +27,7 @@
 ---
 ## Screenshots
 ### This is the home page of our video streaming website
-(https://![Screenshot 2024-12-05 164556](https://github.com/user-attachments/assets/148d5196-9fce-416d-881d-2365d6b0b478)
+(![Screenshot 2024-12-05 164556](https://github.com/user-attachments/assets/148d5196-9fce-416d-881d-2365d6b0b478)
 )
+
 
