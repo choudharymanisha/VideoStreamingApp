@@ -25,4 +25,12 @@
 - Optimized for both desktop and mobile platforms.
 
 ---
+## Screenshots
+
+### Homepage
+![Homepage](![Uploading Screenshot 2024-12-05 164556.png…]()
+)
+
+### Video Player Interface
+
 
