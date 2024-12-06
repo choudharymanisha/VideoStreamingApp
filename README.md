@@ -27,10 +27,8 @@
 ---
 ## Screenshots
 
-### Homepage
-![Homepage](![Uploading Screenshot 2024-12-05 164556.png…]()
+### This is the main landing page:
+# Landing page
+
+![main page](https://github.com/user-attachments/assets/![Screenshot 2024-12-05 164556](https://github.com/user-attachments/assets/81426ffc-d9cd-4e4b-bd0f-62902f07c48e)
 )
-
-### Video Player Interface
-
-
